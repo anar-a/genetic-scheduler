@@ -1,0 +1,11 @@
+SLA303 in Roman 201 at  10: taught by Richards
+SLA304 in Beach 201 at  10: taught by Tyler
+SLA191B in Roman 201 at  11: taught by Lock
+SLA201 in Slater 003 at  11: taught by Shaw
+SLA100A in Slater 003 at  12: taught by Lock
+SLA449 in Roman 201 at  13: taught by Banks
+SLA100B in Roman 201 at  14: taught by Lock
+SLA394 in Loft 206 at  14: taught by Richards
+SLA451 in Frank 119 at  14: taught by Banks
+SLA191A in Roman 216 at  15: taught by Richards
+SLA291 in Slater 003 at  15: taught by Banks
